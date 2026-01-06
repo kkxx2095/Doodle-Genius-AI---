@@ -1,0 +1,5 @@
+{
+  "name": "Doodle Genius AI",
+  "description": "A sophisticated sketch-to-image application that allows users to create hand-drawn doodles, shapes, and annotations, then transform them into high-quality AI-generated images using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
